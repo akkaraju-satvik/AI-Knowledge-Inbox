@@ -7,8 +7,8 @@ Authored by Satvik Akkaraju
 
 ## Table of Contents
 
-- [Backend](github.com/akkaraju-satvik/AI-Knowledge-Inbox-backend)
-- [Frontend](github.com/akkaraju-satvik/AI-Knowledge-Inbox-frontend)
+- [Backend](https://github.com/akkaraju-satvik/AI-Knowledge-Inbox-backend)
+- [Frontend](https://github.com/akkaraju-satvik/AI-Knowledge-Inbox-frontend)
 - [Setup](#setup)
 
 ### Setup
